@@ -50,7 +50,7 @@ if(!class_exists('WP_Job_Seeker_Settings'))
         
         public function settings_section_seeker_template()
         {           
-            echo 'These settings do things for the WP Plugin Template.';
+            echo 'These settings do things for the WP Job Seeker.';
         }
         
         /**
